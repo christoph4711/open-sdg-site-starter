@@ -13,7 +13,7 @@
 title: Integration 2020
 # Replace the baseurl with the name of this repository.
 baseurl: "https://github.com/christoph4711/open-sdg-site-starter"
-url: ""
+url: "https://github.com/christoph4711/open-sdg-site-starter"
 data_dir: data
 environment: staging
 # Replace my-github-org and open-sdg-data-starter as needed.
@@ -55,7 +55,7 @@ email_contacts:
 repo_name: open-sdg-data-starter
 branch: develop
 # Replace this value as needed.
-org_name: my-github-org
+org_name: christoph4711
 
 # Build settings
 markdown: kramdown
