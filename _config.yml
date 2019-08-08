@@ -10,7 +10,7 @@
 # -- replace "open-sdg-data-starter" with "my-awesome-data-repo"
 
 # Replace this title as needed.
-title: Indicators For The Sustainable Development Goals
+title: Integration 2020
 # Replace the baseurl with the name of this repository.
 baseurl: "/open-sdg-site-starter"
 url: ""
@@ -22,16 +22,16 @@ remotedatabaseurl: "https://my-github-org.github.io/open-sdg-data-starter"
 jekyll_get_json:
   - data: meta
     # Replace my-github-org and open-sdg-data-starter as needed.
-    json: 'https://my-github-org.github.io/open-sdg-data-starter/meta/all.json'
+    json: 'https://github.com/christoph4711/open-sdg-data-starter/meta/all.json'
   - data: headlines
     # Replace my-github-org and open-sdg-data-starter as needed.
-    json: 'https://my-github-org.github.io/open-sdg-data-starter/headline/all.json'
+    json: 'https://github.com/christoph4711/open-sdg-data-starter/headline/all.json'
   - data: schema
     # Replace my-github-org and open-sdg-data-starter as needed.
-    json: 'https://my-github-org.github.io/open-sdg-data-starter/meta/schema.json'
+    json: 'https://github.com/christoph4711/open-sdg-data-starter/meta/schema.json'
   - data: reporting
     # Replace my-github-org and open-sdg-data-starter as needed.
-    json: 'https://my-github-org.github.io/open-sdg-data-starter/stats/reporting.json'
+    json: 'https://github.com/christoph4711/open-sdg-data-starter/stats/reporting.json'
   - data: translations
     json: 'https://open-sdg.github.io/sdg-translations/translations-0.5.2.json'
 
@@ -46,9 +46,9 @@ twitter: 'MyTwitterAccount'
 
 # Replace the email addresses below.
 email_contacts:
-  questions: test@example.com
-  suggestions: test@example.com
-  functional: test@example.com
+  questions: christoph@biester.info
+  suggestions: christoph@biester.info
+  functional: christoph@biester.info
 
 # Github Repo for Data
 # Replace this value as needed.
@@ -66,8 +66,8 @@ exclude: [vendor, scripts, remotedata]
 # International Support
 # Eg name: Australia and adjective: Australian
 country:
-  name: Australia
-  adjective: Australian
+  name: Germany
+  adjective: German
 
 # Optionally uncomment and update the settings below to control the frontpage heading and instructions.
 #frontpage_heading: Australian data for Sustainable Development Goal indicators
