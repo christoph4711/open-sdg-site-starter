@@ -12,12 +12,12 @@
 # Replace this title as needed.
 title: Integration 2020
 # Replace the baseurl with the name of this repository.
-baseurl: "/open-sdg-site-starter"
+baseurl: "https://github.com/christoph4711/open-sdg-site-starter"
 url: ""
 data_dir: data
 environment: staging
 # Replace my-github-org and open-sdg-data-starter as needed.
-remotedatabaseurl: "https://my-github-org.github.io/open-sdg-data-starter"
+remotedatabaseurl: "https://github.com/christoph4711/open-sdg-data-starter"
 
 jekyll_get_json:
   - data: meta
