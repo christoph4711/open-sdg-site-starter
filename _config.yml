@@ -58,7 +58,9 @@ branch: develop
 org_name: christoph4711
 
 # Build settings
+highlighter: true
 markdown: kramdown
+
 
 # Travis Support
 exclude: [vendor, scripts, remotedata]
