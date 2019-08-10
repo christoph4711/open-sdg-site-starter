@@ -9,8 +9,8 @@
 GH_ORG_STAGING="christoph4711"
 # These variables only control the name/email on the automated Git commits.
 # Changing this is optional.
-GH_NAME="CircleCI"
-GH_EMAIL="no-reply@example.com"
+GH_NAME="christoph4711"
+GH_EMAIL="christoph@biester.info"
 ###################################
 
 # There is probably no need to modify anything below this point.
