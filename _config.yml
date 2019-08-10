@@ -55,7 +55,7 @@ email_contacts:
 repo_name: open-sdg-data-starter
 branch: develop
 # Replace this value as needed.
-org_name: #christoph4711
+org_name: christoph4711
 
 # Build settings
 markdown: kramdown
