@@ -10,7 +10,7 @@
 # -- replace "open-sdg-data-starter" with "my-awesome-data-repo"
 
 # Replace this title as needed.
-title: Integration 2020
+title: Integration 2020 Revolte
 # Replace the baseurl with the name of this repository.
 baseurl: "/open-sdg-site-starter"
 url: ""
@@ -58,7 +58,6 @@ branch: develop
 org_name: christoph4711
 
 # Build settings
-highlighter: true
 markdown: kramdown
 
 
