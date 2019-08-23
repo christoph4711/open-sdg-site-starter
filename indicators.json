@@ -1,7 +1,7 @@
 [{
     "goal": {
       "id": "1",
-      "title": "Bevölklerung - Daten zur Bevölkerung mit Migrationshintergrund",
+      "title": "Bevölkerung - Daten zur Bevölkerung mit Migrationshintergrund",
       "indicators": [{
           "id": "1-5-3",
           "title": "Anzahl der Staaten, die nationale Strategien zur Reduzierung des Katastrophenrisikos in Einklang mit dem Sendai-Rahmenwerk zur Katastrophenvorsorge 2015-2030 verabschiedet und umgesetzt haben",
@@ -105,7 +105,7 @@
   },{
     "goal": {
       "id": "2",
-      "title": "Den Hunger beenden, Ernährungssicherheit und eine bessere Ernährung erreichen und eine nachhaltige Landwirtschaft fördern",
+      "title": "Bildung und Qualifikation - Daten zu Bildung und AUsbildung von Menschen mit Migrationshintergrund",
       "indicators": [{
           "id": "2-a-2",
           "title": "Öffentliche Leistungen insgesamt (öffentliche Entwicklungszusammenarbeit plus sonstige öffentliche Ausgaben) für den Landwirtschaftssektor",
@@ -202,7 +202,7 @@
   },{
     "goal": {
       "id": "3",
-      "title": "Ein gesundes Leben für alle Menschen jeden Alters gewährleisten und ihr Wohlergehen fördern",
+      "title": "Erwerbstätigkeit und Arbeitsmarkt - Daten zu Erwerbstätigkeit von Menschen mit Migrationshintergrund und zum Arbeitsmarkt für Menschen mit Migrationshiintergrund",
       "indicators": [{
           "id": "3-9-2",
           "title": "Sterblichkeitsrate infolge von Kontakt mit verunreinigtem Wasser, unzureichenden sanitären Verhältnissen und mangelnder Hygiene (Kontakt mit unzureichenden 'Wasser, Sanitäreinrichtungen und Hygiene für alle'-Leistungen (WASH))",
@@ -397,7 +397,7 @@
   },{
     "goal": {
       "id": "4",
-      "title": "Inklusive, gleichberechtigte und hochwertige Bildung gewährleisten und Möglichkeiten lebenslangen Lernens für alle fördern",
+      "title": "Soziales - Daten zur sozialen Sicherung vono Menschen mit Migrationshintergrund",
       "indicators": [{
           "id": "4-5-1",
           "title": "Paritäts-Indizes (weiblich/männlich, rural/urban, unterstes/oberstes Vermögensquantil und sonstige, wie z. B. Grad der Behinderung, indigene Bevölkerung und konfliktbetroffen, sobald Daten verfügbar werden) für alle Bildungsindikatoren dieser Liste, die disaggregiert werden können",
