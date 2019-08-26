@@ -664,16 +664,4 @@
           "status": "notstarted"
         }]
     }
-  },{
-    "goal": {
-      "id": "7",
-      "title": "Zugang zu bezahlbarer, verlässlicher, nachhaltiger und moderner Energie für alle sichern",
-      "indicators": []
-    }
-  },{
-    "goal": {
-      "id": "8",
-      "title": "Dauerhaftes, breitenwirksames und nachhaltiges Wirtschaftswachstum, produktive Vollbeschäftigung und menschenwürdige Arbeit für alle fördern",
-      "indicators": []
-    }
   }]
