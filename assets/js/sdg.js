@@ -1265,7 +1265,7 @@ var mapView = function () {
       geoData: geoData,
       geoCodeRegEx: geoCodeRegEx,
       mapOptions: {"minZoom":5,"maxZoom":10,"tileURL":"replace me","tileOptions":{"id":"replace me","accessToken":"replace 1","attribution":"<a href=\"https://www.bkg.bund.de\">© GeoBasis-DE / BKG</a>"},"colorRange":["#F6E8EC","#EED3DB","#E5BFCA","#DDAAB9","#D495A8","#CC8197","#C46C86","#BB5775","#B34264","#AA2E53","#A21942"],"noValueColor":"#f0f0f0","styleNormal":{"weight":1,"opacity":1,"color":null,"fillOpacity":0.7},"styleHighlighted":{"weight":1,"opacity":1,"color":null,"fillOpacity":0.7},"styleStatic":{"weight":2,"opacity":1,"fillOpacity":0,"color":null,"dashArray":55}},
-      mapLayers: [{"serviceUrl":"https://christoph4711.github.io/open-sdg-site-starter/assets/maps/NI_GJ.geojson","nameProperty":"NI_GJ","idProperty":"AGS","min_zoom":0,"max_zoom":20,"staticBorders":true}],
+      mapLayers: [{"serviceUrl":"https://christoph4711.github.io/open-sdg-site-starter/assets/maps/NI_GJ.geojson","nameProperty":"GEN","idProperty":"AGS","min_zoom":0,"max_zoom":20,"staticBorders":true}],
     });
   };
 };
