@@ -145,10 +145,10 @@ map_options:
   minZoom: 5
   maxZoom: 10
   # If you would like to use tile (background) imagery, use these:
-  tileURL: replace me
+  tileURL: https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?&access_token={accessToken}
   tileOptions:
-    id: replace me
-    accessToken: replace 1
+    id: mapbox.light
+    accessToken: pk.eyJ1IjoibW9ib3NzZSIsImEiOiJjanplNTNhMmQwMTFjM21wNHEzazRlejhwIn0.ecHE5G83cklfW5AXYjI_0A
     attribution: <a href="https://www.bkg.bund.de">© GeoBasis-DE / BKG</a>
       # Control the choropleth color range. See https://gka.github.io/chroma.js/#chroma-brewer
   #colorRange: chroma.brewer.BuGn
