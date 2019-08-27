@@ -1264,7 +1264,7 @@ var mapView = function () {
     $('#map').sdgMap({
       geoData: geoData,
       geoCodeRegEx: geoCodeRegEx,
-      mapOptions: {"minZoom":5,"maxZoom":10,"colorRange":"chroma.brewer.BuGn","noValueColor":null,"styleNormal":{"weight":1,"opacity":1,"color":null,"fillOpacity":0.7},"styleHighlighted":{"weight":1,"opacity":1,"color":null,"fillOpacity":0.7},"styleStatic":{"weight":2,"opacity":1,"fillOpacity":0,"color":null,"dashArray":55}},
+      mapOptions: {"minZoom":5,"maxZoom":10,"colorRange":["#F6E8EC","#EED3DB","#E5BFCA","#DDAAB9","#D495A8","#CC8197","#C46C86","#BB5775","#B34264","#AA2E53","#A21942"],"noValueColor":null,"styleNormal":{"weight":1,"opacity":1,"color":null,"fillOpacity":0.7},"styleHighlighted":{"weight":1,"opacity":1,"color":null,"fillOpacity":0.7},"styleStatic":{"weight":2,"opacity":1,"fillOpacity":0,"color":null,"dashArray":55}},
       mapLayers: [{"serviceUrl":"https://christoph4711.github.io/open-sdg-site-starter/assets/maps/NI_GJ.geojson","nameProperty":"NI_GJ","idProperty":"AGS","min_zoom":0,"max_zoom":20,"staticBorders":true}],
     });
   };
