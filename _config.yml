@@ -184,7 +184,7 @@ map_options:
 map_layers:
   -
     # [REQUIRED] The URL to the GeoJSON file for this layer:
-    serviceUrl: https://github.com/christoph4711/open-sdg-data-starter/blob/develop/NI_GJ.geojson
+    serviceUrl: https://christoph4711.github.io/open-sdg-site-starter/assets/maps/NI_GJ.geojson
     # [REQUIRED] The property in `properties` for each boundary's human-readable name
     nameProperty: NI_GJ
     # [REQUIRED] The property in `properties` for each boundary's unique ID (GeoCode).
