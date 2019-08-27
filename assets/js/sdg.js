@@ -1265,7 +1265,7 @@ var mapView = function () {
       geoData: geoData,
       geoCodeRegEx: geoCodeRegEx,
       mapOptions: {"minZoom":5,"maxZoom":10,"colorRange":"chroma.brewer.BuGn","noValueColor":null,"styleNormal":{"weight":1,"opacity":1,"color":null,"fillOpacity":0.7},"styleHighlighted":{"weight":1,"opacity":1,"color":null,"fillOpacity":0.7},"styleStatic":{"weight":2,"opacity":1,"fillOpacity":0,"color":null,"dashArray":55}},
-      mapLayers: [{"serviceUrl":"https://github.com/christoph4711/open-sdg-data-starter/blob/develop/NI_GJ.geojson","nameProperty":"GEN","idProperty":"AGS","min_zoom":0,"max_zoom":20,"staticBorders":true}],
+      mapLayers: [{"serviceUrl":"https://github.com/christoph4711/open-sdg-data-starter/blob/develop/NI_GJ.geojson","nameProperty":"urn:ogc:def:crs:OGC:1.3:CRS84","idProperty":"AGS","min_zoom":0,"max_zoom":20,"staticBorders":true}],
     });
   };
 };
