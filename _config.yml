@@ -145,11 +145,11 @@ map_options:
   minZoom: 5
   maxZoom: 10
   # If you would like to use tile (background) imagery, use these:
-  tileURL: replace me
-  tileOptions:
-    id: replace me
-    accessToken: replace 1
-    attribution: https://www.bkg.bund.de 
+  #tileURL: replace me
+  #tileOptions:
+  #  id: replace me
+  #  accessToken: replace 1
+  #  attribution: https://www.bkg.bund.de 
   # Control the choropleth color range. See https://gka.github.io/chroma.js/#chroma-brewer
   colorRange: chroma.brewer.BuGn
   # Set the color for boundaries that have no data.
@@ -185,7 +185,7 @@ map_layers:
     # [REQUIRED] The URL to the GeoJSON file for this layer:
     serviceUrl: https://github.com/christoph4711/open-sdg-data-starter/blob/develop/NI_GJ.geojson
     # [REQUIRED] The property in `properties` for each boundary's human-readable name
-    nameProperty: NI_GJ
+    nameProperty: GEN
     # [REQUIRED] The property in `properties` for each boundary's unique ID (GeoCode).
     idProperty: AGS
     # The minimum zoom at which this layer should be visible.
