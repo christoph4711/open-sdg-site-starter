@@ -149,7 +149,7 @@ map_options:
   tileOptions:
     id: replace me
     accessToken: replace 1
-    attribution: replace 2
+    attribution: https://www.bkg.bund.de 
   # Control the choropleth color range. See https://gka.github.io/chroma.js/#chroma-brewer
   colorRange: chroma.brewer.BuGn
   # Set the color for boundaries that have no data.
