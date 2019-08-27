@@ -186,7 +186,7 @@ map_layers:
     # [REQUIRED] The URL to the GeoJSON file for this layer:
     serviceUrl: https://christoph4711.github.io/open-sdg-site-starter/assets/maps/NI_GJ.geojson
     # [REQUIRED] The property in `properties` for each boundary's human-readable name
-    nameProperty: NI_GJ
+    nameProperty: GEN
     # [REQUIRED] The property in `properties` for each boundary's unique ID (GeoCode).
     idProperty: AGS
     # The minimum zoom at which this layer should be visible.
