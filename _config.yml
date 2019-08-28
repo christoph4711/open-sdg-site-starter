@@ -137,19 +137,20 @@ custom_css:
   
   # Mapping from https://github.com/kazstat/sdg-site-kazstat/blob/develop/_config.yml#L121
   # only changed access-token, serviceURL, nameProperty and idProperty
+# Mapping
 map_options:
   tileURL: https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}
   tileOptions:
     id: mapbox.light
-    accessToken: sk.eyJ1IjoiY2hyaXN0b3BoNDcxMSIsImEiOiJjanp1eXJsbGkwODc0M2NtcjZ1MjJ3cGVoIn0.780lO2VF4H_uYVlG-XdYSA #pk.eyJ1IjoibW9ib3NzZSIsImEiOiJjanplNTNhMmQwMTFjM21wNHEzazRlejhwIn0.ecHE5G83cklfW5AXYjI_0A
+    accessToken: pk.eyJ1IjoiYnJvY2tmYW5uaW5nMSIsImEiOiJjaXplbmgzczgyMmRtMnZxbzlmbGJmdW9pIn0.LU-BYMX69uu3eGgk0Imibg
     attribution: <a href="https://www.mapbox.com">Mapbox</a> | <a href="https://leafletjs.com/">Leaflet</a>
   minZoom: 3
 map_layers:
   - min_zoom: 3
     max_zoom: 10
-    serviceUrl: https://christoph4711.github.io/open-sdg-site-starter/assets/maps/NI_GJ.geojson
-nameProperty: GEN
-    idProperty: AGS
+    serviceUrl: https://kazstat.github.io/sdg-site-kazstat/assets/js/kazakhstan-regions.geojson
+    nameProperty: kzName
+    idProperty: kzCode
 staticBorders: false
   
 #Map options start
