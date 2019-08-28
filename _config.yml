@@ -151,7 +151,7 @@ map_layers:
     serviceUrl: https://kazstat.github.io/sdg-site-kazstat/assets/js/kazakhstan-regions.geojson
     nameProperty: kzName
     idProperty: kzCode
-staticBorders: false
+staticBorders: true
   
 #Map options start
 
