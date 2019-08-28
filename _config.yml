@@ -151,8 +151,8 @@ map_options:
     accessToken: pk.eyJ1IjoiY2hyaXN0b3BoNDcxMSIsImEiOiJjanp1cmJ2b2swMTNhM2xtdzEzMXdoN3A0In0.AAEE_ki991FcAOQ_piKr9Q
     attribution: <a href="https://www.bkg.bund.de">© GeoBasis-DE / BKG</a>
       # Control the choropleth color range. See https://gka.github.io/chroma.js/#chroma-brewer
-  #colorRange: chroma.brewer.BuGn
-  colorRange: ["#F6E8EC", "#EED3DB", "#E5BFCA", "#DDAAB9", "#D495A8", "#CC8197", "#C46C86", "#BB5775", "#B34264", "#AA2E53","#A21942"]
+  colorRange: chroma.brewer.BuGn
+  #colorRange: ["#F6E8EC", "#EED3DB", "#E5BFCA", "#DDAAB9", "#D495A8", "#CC8197", "#C46C86", "#BB5775", "#B34264", "#AA2E53","#A21942"]
   # Set the color for boundaries that have no data.
   noValueColor: #f0f0f0
   # For documentation on the style options below, see here:
@@ -194,4 +194,4 @@ map_layers:
     # The maximum zoom at which this layer should be visible.
     max_zoom: 20
     # Whether or not these boundaries should display statically on lower layers.
-    staticBorders: true
+    staticBorders: false
