@@ -195,4 +195,4 @@ map_layers:
     # The maximum zoom at which this layer should be visible.
     max_zoom: 20
     # Whether or not these boundaries should display statically on lower layers.
-    staticBorders: false
+    staticBorders: true
