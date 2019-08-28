@@ -147,10 +147,13 @@ map_options:
   minZoom: 3
 map_layers:
   - min_zoom: 3
-    max_zoom: 10
-    serviceUrl: https://kazstat.github.io/sdg-site-kazstat/assets/js/kazakhstan-regions.geojson
-    nameProperty: kzName
-    idProperty: kzCode
+    max_zoom: 10   
+    serviceUrl: https://christoph4711.github.io/open-sdg-site-starter/assets/maps/NI_GJ.geojson
+    #serviceUrl: https://kazstat.github.io/sdg-site-kazstat/assets/js/kazakhstan-regions.geojson
+    nameProperty: GEN
+    #nameProperty: kzName
+    idProperty: AGS
+    #idProperty: kzCode
 staticBorders: true
   
 #Map options start
