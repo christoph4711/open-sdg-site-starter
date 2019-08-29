@@ -143,7 +143,7 @@ map_options:
   tileOptions:
     id: mapbox.light
     accessToken: sk.eyJ1IjoiY2hyaXN0b3BoNDcxMSIsImEiOiJjanp1eXJsbGkwODc0M2NtcjZ1MjJ3cGVoIn0.780lO2VF4H_uYVlG-XdYSA #pk.eyJ1IjoiYnJvY2tmYW5uaW5nMSIsImEiOiJjaXplbmgzczgyMmRtMnZxbzlmbGJmdW9pIn0.LU-BYMX69uu3eGgk0Imibg
-    attribution: <a href="https://www.mapbox.com">Mapbox</a> | <a href="https://leafletjs.com/">Leaflet</a>
+    attribution: <a href="https://www.mapbox.com">Mapbox</a> | <a href="http://www.bkg.bund.de">© GeoBasis-DE / BKG</a>
   minZoom: 3
 map_layers:
   - min_zoom: 3
