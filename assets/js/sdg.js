@@ -1265,7 +1265,7 @@ var mapView = function () {
       geoData: geoData,
       geoCodeRegEx: geoCodeRegEx,
       mapOptions: {"tileURL":"https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}","tileOptions":{"id":"mapbox.light","accessToken":"sk.eyJ1IjoiY2hyaXN0b3BoNDcxMSIsImEiOiJjanp1eXJsbGkwODc0M2NtcjZ1MjJ3cGVoIn0.780lO2VF4H_uYVlG-XdYSA","attribution":"<a href=\"https://www.mapbox.com\">Mapbox</a> | <a href=\"https://leafletjs.com/\">Leaflet</a>"},"minZoom":3},
-      mapLayers: [{"min_zoom":3,"max_zoom":10,"serviceUrl":"https://christoph4711.github.io/open-sdg-site-starter/assets/maps/NI_GJ.geojson","nameProperty":"GEN","idProperty":"AGS"}],
+      mapLayers: [{"min_zoom":3,"max_zoom":10,"serviceUrl":"https://christoph4711.github.io/open-sdg-site-starter/assets/maps/NI_Kurz.geojson","nameProperty":"GEN","idProperty":"AGS"}],
     });
   };
 };
