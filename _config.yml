@@ -155,5 +155,5 @@ map_layers:
     #nameProperty: kzName
     idProperty: AGS
     #idProperty: kzCode
-staticBorders: true
+staticBorders: false
   
