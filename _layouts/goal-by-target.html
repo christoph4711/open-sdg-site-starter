@@ -2,7 +2,7 @@
 {% include head.html %}
 {% include header.html %}
 {% assign goal_number = page.sdg_goal %}
-{% assign translated_goal = t.dns_goals[goal_number] %}
+{% assign translated_goal = t.goals[goal_number] %}
 
 <div class="heading goal-{{page.sdg_goal}}">
   <div class="container">
@@ -26,7 +26,7 @@
 
   <div class="visible-md-block visible-lg-block">
     <div class="col-md-6">
-      <h4>{{ t.general.dns_target }}</h4>
+      <h4>{{ t.general.target }}</h4>
     </div>
     <div class="col-md-6">
       <h4>{{ t.general.indicators }}</h4>
