@@ -19,11 +19,10 @@ edit_metadata: Metadaten bearbeiten
 footnote: Fußnote
 geographical_area: Geographische Abdeckung
 global_metadata: Globale Metadaten
-global_metadata_blurb: Diese Übersicht stellt weitere Informationen zu den abgebildeten Daten dar.
+global_metadata_blurb: Diese Übersicht stellt weitere Informationen zu denabgebildeten Daten dar.
 legend_help: Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.
 loading_map: Karte wird geladen
 map: Karte
-metadata: Weitere Informationen
 national_metadata: Weitere Informationen
 national_metadata_blurb: Im Folgenden werden weitere Informationen zu den abgebildeten Daten angezeigt.
 no_data_hint: Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten
