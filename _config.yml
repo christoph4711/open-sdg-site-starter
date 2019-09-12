@@ -72,7 +72,7 @@ country:
 
 # Optionally uncomment and update the settings below to control the frontpage heading and instructions.
 frontpage_heading: Migration und Teilhabe Integrationsmonitoring Niedersachsen.
-frontpage_instructions: Click on each goal, or <span id="jump-to-search"><a>search</a></span>, for Australian statistics for Sustainable Development Goal global indicators.
+#frontpage_instructions: Click on each goal, or <span id="jump-to-search"><a>search</a></span>, for Australian statistics for Sustainable Development Goal global indicators.
 
 # Pages
 collections:
@@ -129,7 +129,7 @@ plugins:
   - jekyll-open-sdg-plugins
 
 # Tell the Remote Theme plugin to use the Open SDG platform (Jekyll theme).
-remote_theme: open-sdg/open-sdg@0.7.1    #0.6.2
+remote_theme: open-sdg/open-sdg@0.8.1     #0.7.1    #0.6.2
 
 # Apply any custom CSS.
 custom_css:
