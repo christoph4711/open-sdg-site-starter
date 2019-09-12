@@ -9,7 +9,7 @@ indicator_name: Indikatorenbezeichnung
 indicator_sort_order: Indikatorenreihenfolge (in der Zielübersicht)
 national_data_update_url: Daten zuletzt aktualisiert am
 national_geographical_coverage: Geographische Abdeckung
-national_indicator_available: Verfügbare Datenreihenbezeichnung
+national_indicator_available: Datenquellen
 national_indicator_description: Indikatorenbeschreibung
 national_metadata_update_url: Metadaten zuletzt aktualisiert am
 source_contact_1: Kontaktinformationen
